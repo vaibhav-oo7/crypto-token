@@ -1,3 +1,14 @@
+Preview:
+Internet Unique ID Identifier
+![image](https://github.com/vaibhav-oo7/crypto-token/assets/97470918/37a67dac-8036-4b3b-ba9a-43fd99716651)
+![image](https://github.com/vaibhav-oo7/crypto-token/assets/97470918/8a5eacd8-017f-4aaa-9940-116fb275efe6)
+
+
+Wallet
+![image](https://github.com/vaibhav-oo7/crypto-token/assets/97470918/8040292b-7743-4f90-b79f-2b5380159178)
+
+
+image
 # Check your Balance
 
 1. Find out your principal id:
